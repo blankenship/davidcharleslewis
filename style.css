@@ -107,6 +107,8 @@ website: 	http://davidcharleslewis.com
 	}
 
 	header img { 
+		border: 7px solid #fff;
+		border-radius: 2px;
 		margin: 2rem auto;
 		width: 80%; 
 	}
