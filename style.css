@@ -117,17 +117,24 @@ website: 	http://davidcharleslewis.com
 		box-shadow: 0 20px 10px -10px #bbb;
 	}
 
-	a {
-		background: #bf0a30;
-		border: none 0;
-		color: #fff;
-		border-radius: 7px;
+ 	a {
+ 		border-bottom: 2px solid #bf0a30;
+ 		color: #bf0a30;
 		font-size: .75em;
 		font-weight: 700;
 		letter-spacing: 1px;
 		line-height: .75em;
-		margin: 0 auto;
+		padding-bottom: .1rem;
 		text-decoration: none;
+		text-transform: uppercase;	
+ 	}
+
+	a.button {
+		background: #bf0a30;
+		border: none 0;
+		color: #fff;
+		border-radius: 7px;
+		margin: 0 auto;
 		text-transform: uppercase;	
 		padding: .5rem 1rem;
 	}
