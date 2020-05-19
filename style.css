@@ -105,9 +105,10 @@ website: 	http://davidcharleslewis.com
 	}
 
 	header span {
+		color: #bf0a30;
 		display: block;
 		font-size: 1.5em;
-		margin-bottom: 2em;
+		margin: 1em auto;
 	}
 
 	header img { 
