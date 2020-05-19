@@ -146,11 +146,11 @@ website: 	http://davidcharleslewis.com
 
 	section {
 		border-top: 2px solid DarkSlateGray; 
-		padding: 2rem 0 3rem;
+		padding: 2rem 0;
 	}
 
 	section.centered {
-		margin: 0 auto 3rem;
+		margin: 0 auto 2rem;
 		text-align: center;
 	}
 
