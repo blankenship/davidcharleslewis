@@ -71,6 +71,8 @@ website: 	http://davidcharleslewis.com
 /* TYPOGRAPHY */
 
 	body {
+		background: rgb(252,251,225);
+		background: linear-gradient(180deg, rgba(252,251,225,1) 0%, rgba(198,195,160,0.1783088235294118) 100%);
 		color: black;
 		font: 400 1.25em/1.5em "freight-neo-pro", sans-serif;
 	}
