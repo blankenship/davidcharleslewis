@@ -111,9 +111,9 @@ website: 	http://davidcharleslewis.com
 		border-radius: 2px;
 		margin: 2rem auto;
 		width: 80%; 
-		-webkit-box-shadow: 0 20px 10px -10px #444;
-		-moz-box-shadow: 0 20px 10px -10px #444;
-		box-shadow: 0 20px 10px -10px #444;
+		-webkit-box-shadow: 0 20px 10px -10px DarkSlateGray;
+		-moz-box-shadow: 0 20px 10px -10px DarkSlateGray;
+		box-shadow: 0 20px 10px -10px DarkSlateGray;
 	}
 
 	button {
