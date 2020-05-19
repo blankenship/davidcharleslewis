@@ -77,24 +77,20 @@ website: 	http://davidcharleslewis.com
 /* TYPOGRAPHY */
 
 	body {
-		font: 400 3em/3.5em "freight-neo-pro", sans-serif;
+		color: black;
+		font: 400 1em/1.25em "freight-neo-pro", sans-serif;
 	}
 
 	h1 {
-		color: black;
-		display: block;
-		text-align: left;
-		text-transform: uppercase;
-  		padding: 0;
   	}
 
 	h2 {
-		color: black;
-		text-align: left;
 	}
 
 	h2 strong {
-		text-transform: uppercase;
+	}
+
+	h3 {
 	}
 
 	a { 
@@ -105,11 +101,6 @@ website: 	http://davidcharleslewis.com
 
 	a:hover { 
 		color: silver;	
-	}
-
-	h3 {
-		text-align: left;
-		text-transform: uppercase;
 	}
 
   	footer {
