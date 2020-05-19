@@ -71,9 +71,9 @@ website: 	http://davidcharleslewis.com
 /* TYPOGRAPHY */
 
 	body {
-		background: rgb(252,251,225);
-		background: linear-gradient(180deg, rgba(252,251,225,1) 0%, rgba(198,195,160,0.1783088235294118) 100%);
-		color: black;
+		background: rgb(255,255,241);
+		background: linear-gradient(180deg, rgba(255,255,241,1) 0%, rgba(241,238,198,0.1783088235294118) 100%);
+		color: DarkSlateGray;
 		font: 400 1.25em/1.5em "freight-neo-pro", sans-serif;
 	}
 
@@ -112,7 +112,7 @@ website: 	http://davidcharleslewis.com
 	}
 
 	a { 
-		color: black;
+		color: DarkSlateGray;
 		display: inline-block;
 		text-decoration: none;
 	}
@@ -134,7 +134,7 @@ website: 	http://davidcharleslewis.com
 /* SECTION -- DEM GRIDS */
 
 	section {
-		border-top: 2px solid black; 
+		border-top: 2px solid DarkSlateGray; 
 		padding-top: 1rem;
 	}
 
@@ -146,7 +146,7 @@ website: 	http://davidcharleslewis.com
 /* SECTION -- FOOTER */
 
 	footer {
-		border-top: 2px solid black; 
+		border-top: 2px solid DarkSlateGray; 
 		padding-top: 1rem;
 	}
 
