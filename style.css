@@ -70,8 +70,9 @@ website: 	http://davidcharleslewis.com
 	}
 
 	header {
-		margin: 0 auto 5vw;
+		margin: 5rem auto;
 		padding: 0;
+		text-align: center;
 	}
 
 /* TYPOGRAPHY */
@@ -82,15 +83,21 @@ website: 	http://davidcharleslewis.com
 	}
 
 	h1 {
+		font-size: 2em;
+		line-height: 2.5em;
+		margin-bottom: 2.5em;
   	}
 
 	h2 {
-	}
-
-	h2 strong {
+		font-size: 1.5em;
+		line-height: 2em;
+		margin-bottom: 2em;
 	}
 
 	h3 {
+		font-size: 1em;
+		line-height: 1.25em;
+		margin-bottom: 1.25em;
 	}
 
 	a { 
