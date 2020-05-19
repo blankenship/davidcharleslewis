@@ -157,6 +157,7 @@ website: 	http://davidcharleslewis.com
 		    display: grid;
 			grid-template-columns: 45% 45%;
 			grid-column-gap: 10%;
+			margin-top: 2rem;
 		}
 
 
