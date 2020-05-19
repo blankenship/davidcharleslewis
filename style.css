@@ -134,7 +134,7 @@ website: 	http://davidcharleslewis.com
 
   	footer {
   		margin: 0;
-  		padding: 0;
+  		padding: 0 0 4rem;
    }
 
    footer p {
