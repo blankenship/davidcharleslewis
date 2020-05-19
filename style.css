@@ -144,92 +144,9 @@ website: 	http://davidcharleslewis.com
 		padding-top: 1rem;
 	}
 
-	section ul li { display: inline; }
-
-	.tres {
-	    display: grid;
-	    grid-template-columns: 30% 30% 30%;
-	    grid-gap: 5%;
-	    margin: 0 auto;
-	    padding: 0;
-	}
-
-	.quatro {
-	    display: grid;
-	    grid-template-columns: 21.25% 21.25% 21.25% 21.25%;
-	    grid-gap: 5%;
-	    margin: 0 auto;
-	    padding: 0;
-	}
-
-	section figure img { 
-		display: block;
-		margin: 0 auto 1rem;
-		width: 100%;
-	 }
-
-	section figure img { 
-		display: block;
-		margin: 0 auto 1rem;
-		width: 100%;
-	 }
-
-	section figure img.logo { 
-		display: block;
-		margin: 2rem auto 3rem;
-		width: 50%;
-	 }
-
-	section figure img.inset {
-		background-color: black;
-		border-radius: 1px;
-		padding: 10% 10% 16.5% 10%;
-	} 
-
-	section figure img.tombstone {
-		border-top-left-radius: 50%;
-		border-top-right-radius: 50%;
-	} 
-
-	 /* COLLAGE */
-
-	section figure.collage {
-		display: grid;
-		grid-template-columns: 50% 50%;
-		margin: 0 auto 1rem;
-	}
-	section figure.collage img:nth-child(1) { 
-		width: 100%; 
-		z-index: 1;
-	}
-	section figure.collage img:nth-child(2) { 
-		border-radius: 100%; 
-		margin: 25% 0 0 -50%; 
-		width: 150%; 
-		z-index: 0;
-	}
-	section figure.collage img:nth-child(3) { 
-		margin: -23% 0 0 25%; 
-		width: 115%; 
-		z-index: -1;
-	}
-	section figure.collage img:nth-child(4) { 
-		margin: -23% 0 0 25%; 
-		width: 75%; 
-		z-index: -2;
-	}
-
-	section figcaption { 
-		color: black;
-		margin: 0 auto; 
-	}
-
-	section figcaption p {
-		font: 400 1.3vw/1.6vw "futura-pt", sans-serif;
-	}
-
-	section figcaption p a {
-		font: 700 1.3vw/1.6vw "futura-pt-bold", sans-serif;
+	section.centered {
+		margin: 0 auto 10rem;
+		text-align: center;
 	}
 
 /* SECTION -- FOOTER */
@@ -242,24 +159,8 @@ website: 	http://davidcharleslewis.com
 		padding: 1rem 0 0;
 	}
 
-	footer span { 
-		display: inline-block;
-		font: 700 1.2vw/2vw "futura-pt-bold", sans-serif;
-	}
 
-	footer .social a {
-		color: black;
-		font-size: 200%;
-		margin: 0 5px 20px;
-	}
 
-	footer .social a:hover { color: rgba(255, 224, 0, 0.7); }
-
-	.arashikage {
-		font-size: 200%;
-		line-height: 1.8vw;
-		text-align: right;
-	}
 
 /* WEE SCREENS */
 
