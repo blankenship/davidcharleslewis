@@ -27,11 +27,6 @@ website: 	http://davidcharleslewis.com
 		outline: none;
 		}
 
-	@keyframes hello {
-		from { opacity: 0; }
-		to   { opacity: 1; }
-	}
-
 	* {
 		margin: 0;
 		padding: 0;
@@ -58,8 +53,6 @@ website: 	http://davidcharleslewis.com
 	        font-size: 18px
 	    }
 	}
-
-	img { filter: grayscale(100%); }
 
 	body {
 		line-height: 1.5;
@@ -140,8 +133,6 @@ website: 	http://davidcharleslewis.com
 
 	section {
 		border-top: 2px solid black; 
-		margin-bottom: 10rem;
-		padding-top: 1rem;
 	}
 
 	section.centered {
@@ -152,8 +143,6 @@ website: 	http://davidcharleslewis.com
 /* SECTION -- FOOTER */
 
 	footer {
-		border-top: 2px solid black; 
-		margin-bottom: 10vw;
 		display: grid;
 		grid-template-columns: 50% 50%;
 		padding: 1rem 0 0;
