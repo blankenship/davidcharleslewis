@@ -144,9 +144,6 @@ website: 	http://davidcharleslewis.com
 /* SECTION -- FOOTER */
 
 	footer {
-		display: grid;
-		grid-template-columns: 50% 50%;
-		padding: 1rem 0 0;
 	}
 
 	.grid {
