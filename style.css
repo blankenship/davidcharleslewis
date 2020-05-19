@@ -104,6 +104,11 @@ website: 	http://davidcharleslewis.com
 		text-transform: uppercase;
 	}
 
+	header span {
+		font-size: 2em;
+		margin-bottom: 2em;
+	}
+	
 	header img { 
 		margin: 2rem auto;
 		width: 60%; 
