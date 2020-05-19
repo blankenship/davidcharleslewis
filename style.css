@@ -121,8 +121,9 @@ website: 	http://davidcharleslewis.com
 		border: none 0;
 		color: #fff;
 		border-radius: 7px;
-		font-size: 1.25em;
+		font-size: 1em;
 		font-weight: 700;
+		letter-spacing: 1px;
 		line-height: 1em;
 		margin: 0 auto;
 		text-decoration: none;
