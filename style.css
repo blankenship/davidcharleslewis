@@ -99,7 +99,8 @@ website: 	http://davidcharleslewis.com
 		text-transform: uppercase;
 	}
 
-	header span {
+	header span,
+	footer span {
 		color: #bf0a30;
 		display: block;
 		font-size: 1.5em;
