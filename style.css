@@ -65,7 +65,7 @@ website: 	http://davidcharleslewis.com
 		line-height: 1.5;
 		overflow-x: hidden;
 		background: white;
-		padding: 5vw 10vw;
+		margin: 0 auto;
 		max-width: 1000px;
 	}
 
