@@ -124,6 +124,15 @@ website: 	http://davidcharleslewis.com
 		color: silver;	
 	}
 
+	button {
+		background: #bf0a30;
+		color: #fff;
+		font-size: 1.5em;
+		line-height: 1em;
+		text-transform: uppercase;	
+		padding: 1rem;
+	}
+
   	footer {
   		margin: 0;
   		padding: 0;
