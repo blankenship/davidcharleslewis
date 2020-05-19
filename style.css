@@ -149,18 +149,18 @@ website: 	http://davidcharleslewis.com
 		padding: 1rem 0 0;
 	}
 
-
+	.grid {
+		    display: grid;
+			grid-template-columns: 45% 45%;
+			grid-column-gap: 10%;
+		}
 
 
 /* WEE SCREENS */
 
 		@media (min-width: 801px) and (max-width: 1000px) {
 
-			.quatro {
-				    display: grid;
-					grid-template-columns: 45% 45%;
-					grid-column-gap: 10%;
-				}
+
 
 		}
 
