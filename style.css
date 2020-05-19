@@ -157,7 +157,7 @@ website: 	http://davidcharleslewis.com
 		padding: 2rem 0;
 	}
 
-	section.centered {
+	.centered {
 		margin: 0 auto 2rem;
 		text-align: center;
 	}
