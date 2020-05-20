@@ -213,7 +213,7 @@ website: 	http://davidcharleslewis.com
 			margin-top: 2rem;
 		}
 
-		.grid .button { 
+		.grid div { 
 			margin-bottom: 2rem; 
 		}
 
@@ -228,8 +228,8 @@ website: 	http://davidcharleslewis.com
 		}
 
 		h3 {
-			font-size: 1.5em;
-			line-height: 1.5em;
-			margin-bottom: 1.5rem;
+			font-size: 1.25em;
+			line-height: 1.25em;
+			margin-bottom: 1.25rem;
 		}
 	}
