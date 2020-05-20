@@ -189,7 +189,7 @@ website: 	http://davidcharleslewis.com
 
 
 		body {
-			font: 400 1em/1.25em "freight-neo-pro", sans-serif;
+			font: 400 1.25em/1.5em "freight-neo-pro", sans-serif;
 			margin: 0 auto;
 			max-width: 90vw;
 			padding: 0;
@@ -218,8 +218,8 @@ website: 	http://davidcharleslewis.com
 		}
 
 		h1 {
-			font-size: 4em;
-			line-height: 2em;
+			font-size: 3em;
+			line-height: 1em;
 	  	}
 
 		h2 {
@@ -228,8 +228,8 @@ website: 	http://davidcharleslewis.com
 		}
 
 		h3 {
-			font-size: 1em;
-			line-height: 1em;
-			margin-bottom: 1rem;
+			font-size: 1.5em;
+			line-height: 1.5em;
+			margin-bottom: 1.5rem;
 		}
 	}
