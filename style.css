@@ -213,7 +213,7 @@ website: 	http://davidcharleslewis.com
 		}
 
 		.grid div { 
-			margin-bottom: 2rem; 
+			margin-bottom: 4rem; 
 		}
 
 		.grid .centered p {
@@ -234,5 +234,10 @@ website: 	http://davidcharleslewis.com
 			font-size: 1.25em;
 			line-height: 1.25em;
 			margin-bottom: 1.25rem;
+		}
+
+		footer h3 {
+			font-size: 1em;
+			line-height: 1em;
 		}
 	}
