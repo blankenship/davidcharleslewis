@@ -102,7 +102,7 @@ website: 	http://davidcharleslewis.com
 
 	h3 span { display: block; }
 
-	aside {
+	aside p {
 		color: #bf0a30;
 		display: block;
 		font-size: 1.5em;
