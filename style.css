@@ -223,6 +223,7 @@ website: 	http://davidcharleslewis.com
 		h1 {
 			font-size: 3em;
 			line-height: 1em;
+			padding: 1rem 0;
 	  	}
 
 		h2 {
