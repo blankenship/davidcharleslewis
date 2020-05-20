@@ -83,7 +83,7 @@ website: 	http://davidcharleslewis.com
 
 	h1 {
 		font-size: 3em;
-		line-height: 1.5em;
+		line-height: 3em;
   	}
 
 	h2 {
@@ -162,6 +162,11 @@ website: 	http://davidcharleslewis.com
 		text-align: center;
 	}
 
+	iframe {
+		height: 60%;
+		width: 60%;
+	}
+
 /* SECTION -- FOOTER */
 
 	footer {
@@ -179,25 +184,44 @@ website: 	http://davidcharleslewis.com
 
 /* WEE SCREENS */
 
-		@media (min-width: 801px) and (max-width: 1000px) {
+		@media (min-width: 100px) and (max-width: 1000px) {
 
-
-
-		}
-
-		@media (min-width: 100px) and (max-width: 800px) {
 
 		body {
-			padding: 5vw;
+			margin: 0 auto;
+			max-width: 90vw;
+			padding: 0;
+		}
+
+		header img { 
+			width: 90%; 
+		}
+
+
+		iframe {
+			height: 90%;
+			width: 60%;
+		}
+
+
+		.grid {
+		    display: block;
+			margin-top: 2rem;
 		}
 
 		h1 {
+			font-size: 2em;
+			line-height: 2em;
 	  	}
 
 		h2 {
+			font-size: 1em;
+			line-height: 1em;
 		}
 
 		h3 {
+			font-size: .75em;
+			line-height: 1em;
+			margin-bottom: 1rem;
 		}
-
-		}
+	}
