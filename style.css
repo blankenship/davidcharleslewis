@@ -164,6 +164,7 @@ website: 	http://davidcharleslewis.com
 
 	iframe {
 		height: 60%;
+		margin-bottom: 1.25rem;
 		width: 60%;
 	}
 
@@ -216,7 +217,7 @@ website: 	http://davidcharleslewis.com
 		.grid .button { 
 			margin-bottom: 2rem; 
 		}
-		
+
 		h1 {
 			font-size: 4em;
 			line-height: 2em;
