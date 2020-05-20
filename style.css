@@ -100,6 +100,8 @@ website: 	http://davidcharleslewis.com
 		text-transform: uppercase;
 	}
 
+	h3 span { display: block; }
+
 	header span,
 	footer span {
 		color: #bf0a30;
@@ -236,6 +238,8 @@ website: 	http://davidcharleslewis.com
 			line-height: 1.25em;
 			margin-bottom: 1.25rem;
 		}
+
+		h3 span { display: inline; }
 
 		footer h3 {
 			font-size: 1em;
