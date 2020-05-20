@@ -195,8 +195,6 @@ website: 	http://davidcharleslewis.com
 			padding: 0;
 		}
 
-		.centered p { text-align: left; }
-
 		header img { 
 			width: 95%; 
 		}
@@ -221,7 +219,7 @@ website: 	http://davidcharleslewis.com
 		.grid .centered p {
 			text-align: center;
 		}
-		
+
 		h1 {
 			font-size: 3em;
 			line-height: 1em;
