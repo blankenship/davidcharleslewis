@@ -218,6 +218,10 @@ website: 	http://davidcharleslewis.com
 			margin-bottom: 2rem; 
 		}
 
+		.grid .centered p {
+			text-align: center;
+		}
+		
 		h1 {
 			font-size: 3em;
 			line-height: 1em;
