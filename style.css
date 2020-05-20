@@ -211,6 +211,7 @@ website: 	http://davidcharleslewis.com
 		.grid {
 		    display: block;
 			margin-top: 2rem;
+			text-align: center;
 		}
 
 		.grid div { 
